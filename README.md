@@ -1,3 +1,7 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-backend/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-backend/?branch=main)
+[![Code Coverage](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-backend/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-backend/?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-backend/badges/build.png?b=main)](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-backend/build-status/main)
+
 
 **npm init
 
